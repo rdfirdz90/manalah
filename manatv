@@ -3,8 +3,12 @@
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912594.png" group-title="TEMPATAN", TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912595.png" group-title="TEMPATAN", TV3
+#EXTINF: -1 tvg-id="tv3.my" tvg-name="MY: TV 3 [A]" tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912595.png" group-title="TEMPATAN", TV3 A
+http://syok.tv:25461/Ardie2606/Ardie26/5
+#EXTINF: -1 tvg-id="tv3.my" tvg-name="MY: TV 3 [B]" tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912595.png" group-title="TEMPATAN", TV3 B
 http://syok.tv:25461/Ardie2606/Ardie26/6
+#EXTINF: -1 tvg-id="tv3.my" tvg-name="MY: TV 3 [C]" tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912595.png" group-title="TEMPATAN", TV3 C
+http://syok.tv:25461/Ardie2606/Ardie26/3185
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922598.png" group-title="TEMPATAN", TVS
 https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922599.png" group-title="TEMPATAN", TV6
