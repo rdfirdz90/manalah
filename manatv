@@ -4,13 +4,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912594.png" group-title="TEMPATAN", TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912595.png" group-title="TEMPATAN", TV3
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8?exp=1698608531&hmac=0x507ad2138b068de6d9a33627db102a04f70c56de4eacd7de85a45bf81ade4e8e
+http://syok.tv:25461/Ardie2606/Ardie26/6
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922598.png" group-title="TEMPATAN", TVS
 https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922599.png" group-title="TEMPATAN", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922603.png" group-title="TEMPATAN", TV OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+#EXTINF: -1 tvg-id="awesometv.my" tvg-name="MY: Awesome TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/973737663.png" group-title="TEMPATAN", MY: Awesome TV
+http://syok.tv:25461/Ardie2606/Ardie26/16
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922604.png" group-title="TEMPATAN", TV ALHIJRAH
 https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1698604528-c70f518ef7004c83926b16a091600da0-0-cb708a073c2aae79fd9089b0b2bb2318&auth_key=1698604528-c70f518ef7004c83926b16a091600da0-0-deaf828568fc19b4c86222534bf02a74
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922606.png" group-title="TEMPATAN", SUKE TV
@@ -20,19 +22,69 @@ https://live.mana2.my/SelangorTv/tracks-v1a1/mono.m3u8?token=1698604582-71702fa0
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922608.png" group-title="TEMPATAN", TV IKIM
 https://live.mana2.my/TvIkim/tracks-v1a1/mono.m3u8?token=1698604601-90eeb6d096b945f598fd0714d29628f9-0-0d0e5a5b38d626cf1f1a831016e453a1&auth_key=1698604601-90eeb6d096b945f598fd0714d29628f9-0-5e447efd9e644586a87e27a5ffae7a3b
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/969007595.png" group-title="TEMPATAN", DIDIK TV
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8?exp=1698607987&hmac=0xe3e9079c9f19057f2ff096c6d5ac7380d6b905ce8dc1b3c5d429b61daff06fef
+http://syok.tv:25461/Ardie2606/Ardie26/8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/969007597.png" group-title="TEMPATAN", 8TV
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8?exp=1698608013&hmac=0xb6462ab892e4cd6c183c8c4d9c7b8aa0fab8ed75b59936101840a6c7e93dc928
+http://syok.tv:25461/Ardie2606/Ardie26/10
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/969007601.png" group-title="TEMPATAN", TV9
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8?exp=1698608031&hmac=0x03d05edcda5418478f8961ea4df4aafd9d0fe05ac38d628e12d097e89fae8a86
+http://syok.tv:25461/Ardie2606/Ardie26/12
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/969007602.png" group-title="TEMPATAN", DRAMA SANGAT
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8?exp=1698608052&hmac=0x2de3004653eaaaba93b5e87dda07a3ef9242f454de59585ce8cfa2ff2f06ac61
+http://syok.tv:25461/Ardie2606/Ardie26/15
+#EXTINF: -1 tvg-id="astroria.my" tvg-name="MY: Astro Ria [A]" tvg-logo="https://i.imgur.com/pmYfDlY.png" group-title="ASTRO", MY: Astro Ria [A]
+http://syok.tv:25461/Ardie2606/Ardie26/18
+#EXTINF: -1 tvg-id="astroria.my" tvg-name="MY: Astro Ria [B]" tvg-logo="https://i.imgur.com/pmYfDlY.png" group-title="ASTRO", MY: Astro Ria [B]
+http://syok.tv:25461/Ardie2606/Ardie26/19
+#EXTINF: -1 tvg-id="astroprima.my" tvg-name="MY: Astro Prima [A]" tvg-logo="https://i.imgur.com/zDtVGyH.png" group-title="ASTRO", MY: Astro Prima [A]
+http://syok.tv:25461/Ardie2606/Ardie26/20
+#EXTINF: -1 tvg-id="astroprima.my" tvg-name="MY: Astro Prima [B]" tvg-logo="https://i.imgur.com/zDtVGyH.png" group-title="ASTRO", MY: Astro Prima [B]
+http://syok.tv:25461/Ardie2606/Ardie26/21
+#EXTINF: -1 tvg-id="astrowarna.my" tvg-name="MY: Astro Warna [A]" tvg-logo="https://i.imgur.com/pJvetrD.png" group-title="ASTRO", MY: Astro Warna [A]
+http://syok.tv:25461/Ardie2606/Ardie26/22
+#EXTINF: -1 tvg-id="astrowarna.my" tvg-name="MY: Astro Warna [B]" tvg-logo="https://i.imgur.com/pJvetrD.png" group-title="ASTRO", MY: Astro Warna [B]
+http://syok.tv:25461/Ardie2606/Ardie26/23
+#EXTINF: -1 tvg-id="astrooasis.my" tvg-name="MY: Astro Oasis" tvg-logo="https://i.imgur.com/YQ1Vyv4.png" group-title="ASTRO", MY: Astro Oasis
+http://syok.tv:25461/Ardie2606/Ardie26/25
+#EXTINF: -1 tvg-id="astrocitra.my" tvg-name="MY: Astro Citra" tvg-logo="https://i.imgur.com/2HMuUrQ.png" group-title="ASTRO", MY: Astro Citra
+http://syok.tv:25461/Ardie2606/Ardie26/26
+#EXTINF: -1 tvg-id="astrorania.my" tvg-name="MY: Astro Rania" tvg-logo="https://i.imgur.com/dpTJzQ0.png" group-title="ASTRO", MY: Astro Rania
+http://syok.tv:25461/Ardie2606/Ardie26/27
+#EXTINF: -1 tvg-id="astroaura.my" tvg-name="MY: Astro Aura" tvg-logo="https://i.imgur.com/FNmKQlp.png" group-title="ASTRO", MY: Astro Aura
+http://syok.tv:25461/Ardie2606/Ardie26/28
+#EXTINF: -1 tvg-id="boo.my" tvg-name="MY: Astro BOO" tvg-logo="https://i.imgur.com/XX7nfoF.png" group-title="ASTRO", MY: Astro BOO
+http://syok.tv:25461/Ardie2606/Ardie26/29
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912596.png" group-title="SUKAN", SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922601.png" group-title="SUKAN", HORIZON SPORTS
 https://live.mana2.my/HorizonSports/tracks-v1a1/mono.m3u8?token=1698604642-17775ef119604766810169129b222ccc-0-0ff327efdcf5eb4896ac012bdca106e5&auth_key=1698604642-17775ef119604766810169129b222ccc-0-d3f64d356bd95e1054d21e240255f97e
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922602.png" group-title="SUKAN", MOTOR RACING
 https://live.mana2.my/MotorracingTv/tracks-v1a1/mono.m3u8?token=1698604674-050e4557d7ef437abaf2cd4bde6dc99b-0-98e0886dd055076e2a91b23f2921dfb2&auth_key=1698604674-050e4557d7ef437abaf2cd4bde6dc99b-0-b6244054e18fcea0ab4f113502d0c117
+#EXTINF: -1 tvg-id="astrocricket.my" tvg-name="MY: Astro Cricket" tvg-logo="https://i.imgur.com/XU0zLsM.png" group-title="SUKAN ASTRO", MY: Astro Cricket
+http://syok.tv:25461/Ardie2606/Ardie26/120
+#EXTINF: -1 tvg-id="astroarena.my" tvg-name="MY: Astro Arena[A]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SUKAN ASTRO", MY: Astro Arena[A]
+http://syok.tv:25461/Ardie2606/Ardie26/121
+#EXTINF: -1 tvg-id="astroarena.my" tvg-name="MY: Astro Arena[B]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SUKAN ASTRO", MY: Astro Arena[B]
+http://syok.tv:25461/Ardie2606/Ardie26/122
+#EXTINF: -1 tvg-id="astroarena2.my" tvg-name="MY: Astro Arena 2" tvg-logo="https://i.imgur.com/JS5Kve6.png" group-title="SUKAN ASTRO", MY: Astro Arena 2
+http://syok.tv:25461/Ardie2606/Ardie26/123
+#EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SUKAN ASTRO", MY: Astro Super Sport 1
+http://syok.tv:25461/Ardie2606/Ardie26/124
+#EXTINF: -1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SUKAN ASTRO", MY: Astro Super Sport 2
+http://syok.tv:25461/Ardie2606/Ardie26/125
+#EXTINF: -1 tvg-id="astrosupersport3.my" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SUKAN ASTRO", MY: Astro Super Sport 3
+http://syok.tv:25461/Ardie2606/Ardie26/126
+#EXTINF: -1 tvg-id="astrosupersport4.my" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SUKAN ASTRO", MY: Astro Super Sport 4
+http://syok.tv:25461/Ardie2606/Ardie26/127
+#EXTINF: -1 tvg-id="astrosupersport5.my" tvg-name="MY: Astro Super Sport 5(B)" tvg-logo="https://i.imgur.com/bzQyCno.png" group-title="SUKAN ASTRO", MY: Astro Super Sport 5(B)
+http://syok.tv:25461/Ardie2606/Ardie26/641
+#EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="MY: Astro Super Sport 1(B)" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SUKAN ASTRO", MY: Astro Super Sport 1(B)
+http://syok.tv:25461/Ardie2606/Ardie26/637
+#EXTINF: -1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Super Sport 2(B)" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SUKAN ASTRO", MY: Astro Super Sport 2(B)
+http://syok.tv:25461/Ardie2606/Ardie26/638
+#EXTINF: -1 tvg-id="astrosupersport3.my" tvg-name="MY: Astro Super Sport 3(B)" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SUKAN ASTRO", MY: Astro Super Sport 3(B)
+http://syok.tv:25461/Ardie2606/Ardie26/639
+#EXTINF: -1 tvg-id="astrosupersport4.my" tvg-name="MY: Astro Super Sport 4(B)" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SUKAN ASTRO", MY: Astro Super Sport 4(B)
+http://syok.tv:25461/Ardie2606/Ardie26/640
+#EXTINF: -1 tvg-id="wwenetwork.my" tvg-name="MY:  WWE" tvg-logo="https://i.imgur.com/ipnx8eZ.png" group-title="SUKAN ASTRO", MY:  WWE
+http://syok.tv:25461/Ardie2606/Ardie26/144
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922600.png" group-title="ANTARABANGSA", MCE
 https://live.mana2.my/MyCinemaEurope/tracks-v1a1/mono.m3u8?token=1698604692-da7768d2469644afb9a3a7e759d1adfe-0-0a6dea2eed1f6905745f0adc5f142ad8&auth_key=1698604692-da7768d2469644afb9a3a7e759d1adfe-0-b00c3ab582e8cb1aacdf7dc4a6969dfa
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922609.png" group-title="ANTARABANGSA", TVRI
@@ -41,11 +93,27 @@ https://live.mana2.my/MyCinemaEurope/tracks-v1a1/mono.m3u8?token=1698604692-da77
 https://live.mana2.my/TvriWorld/tracks-v1/mono.m3u8?token=1698604726-67863630c4064ff0b574c37cccb48dad-0-b197337d502e213c6fe9e79fdac00b9c&auth_key=1698604726-67863630c4064ff0b574c37cccb48dad-0-7bc2272ca2cc2216e9d77b2b31e2b2f4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530742/968951591.png" group-title="ANTARABANGSA", RTB SUKMAINDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8
+#EXTINF: -1 tvg-id="astroceria.my" tvg-name="MY: Astro Ceria (A)" tvg-logo="https://i.imgur.com/Mg7OSZZ.png" group-title="KANAK-KANAK", MY: Astro Ceria (A)
+http://syok.tv:25461/Ardie2606/Ardie26/225
+#EXTINF: -1 tvg-id="Animax.MACAN" tvg-name="MY: Animax" tvg-logo="https://i.postimg.cc/v8rN8cTK/animax2.png" group-title="KANAK-KANAK", MY: Animax
+http://syok.tv:25461/Ardie2606/Ardie26/226
+#EXTINF: -1 tvg-id="Aniplus.id" tvg-name="Aniplus FHD" tvg-logo="https://i.postimg.cc/xT9FXnb1/aniplus2.png" group-title="KANAK-KANAK", Aniplus FHD
+http://syok.tv:25461/Ardie2606/Ardie26/227
+#EXTINF: -1 tvg-id="Boomerang.MACAN" tvg-name="MY: Boomerang" tvg-logo="https://i.imgur.com/e7BnRNr.png" group-title="KANAK-KANAK", MY: Boomerang
+http://syok.tv:25461/Ardie2606/Ardie26/228
+#EXTINF: -1 tvg-id="CartoonNetwork.MACAN" tvg-name="MY: Cartoon Network" tvg-logo="https://i.postimg.cc/fRc46BXV/car2.png" group-title="KANAK-KANAK", MY: Cartoon Network
+http://syok.tv:25461/Ardie2606/Ardie26/229
+#EXTINF: -1 tvg-id="Nickelodeon.MACAN" tvg-name="MY: Nickelodeon" tvg-logo="https://i.postimg.cc/d3ydwy4W/nikel2.png" group-title="KANAK-KANAK", MY: Nickelodeon
+http://syok.tv:25461/Ardie2606/Ardie26/230
+#EXTINF: -1 tvg-id="nickjr.in" tvg-name="MY: Nick Jr" tvg-logo="https://i.postimg.cc/s1CWXgL3/nickjr2.png" group-title="KANAK-KANAK", MY: Nick Jr
+http://syok.tv:25461/Ardie2606/Ardie26/231
+#EXTINF: -1 tvg-id="1sports.in" tvg-name="MY: Baby Tv" tvg-logo="https://i.postimg.cc/ZqQ1N2zD/babytv2.png" group-title="KANAK-KANAK", MY: Baby Tv
+http://syok.tv:25461/Ardie2606/Ardie26/234
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968921641.png" group-title="BERITA", BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922605.png" group-title="BERITA", BERNAMA
 https://live.mana2.my/Bernama/tracks-v1a1/mono.m3u8?token=1698604751-2659ae4dea194c449ced04986ef4dc47-0-3dbf297a788ae6a02b500d37702e68e3&auth_key=1698604751-2659ae4dea194c449ced04986ef4dc47-0-ee1e7554523224df3cdfc3eb4ae20dc9
-#EXTINF: -1 group-title="BERITA", AWANI
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530746/973254856.png" group-title="BERITA", AWANI
 https://www.youtube.com/watch?v=txxOwpdp58Q
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008219.png" group-title="RADIO", HOT FM
 https://live.mana2.my/HotFm/tracks-a1/mono.m3u8?token=1698255499-94b0d732ef404cfdb67170cd54943f73-0-12ad9b052f40cf9c733db0ab35319b2a&auth_key=1698255499-94b0d732ef404cfdb67170cd54943f73-0-789a79ba05960e8769b88a96523d2fa8
