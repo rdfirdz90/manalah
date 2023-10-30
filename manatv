@@ -117,15 +117,11 @@ http://syok.tv:25461/Ardie2606/Ardie26/7449
 http://syok.tv:25461/Ardie2606/Ardie26/2106
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530742/968951591.png" group-title="BRUNEI", RTB SUKMAINDERA (BR)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8
-#EXTINF: -1 tvg-id="ONE" tvg-name="MY: ASTRO ONE HD" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="KOREA", ONE
-http://syok.tv:25461/Ardie2606/Ardie26/40
 #EXTINF: -1 tvg-id="K-Plus" tvg-name="K PLUS" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="KOREA", K PLUS
 http://syok.tv:25461/Ardie2606/Ardie26/200
-#EXTINF: -1 tvg-id="K-Plus" tvg-name="MY: K+" tvg-logo="https://i.ibb.co/xj5SPZj/KPLUS.png" group-title="KOREA", K + FHD
-http://syok.tv:25461/Ardie2606/Ardie26/39
-#EXTINF: -1 tvg-id="TVN.MACAN" tvg-name="TVN FHD" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="KOREA", TVN FHD
+#EXTINF: -1 tvg-id="TVN.MACAN" tvg-name="TVN FHD" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="KOREA", TVN
 http://syok.tv:25461/Ardie2606/Ardie26/194
-#EXTINF: -1 tvg-id="TVNMovies.MACAN" tvg-name="TVN MOVIES FHD" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="KOREA", TVN MOVIES FHD
+#EXTINF: -1 tvg-id="TVNMovies.MACAN" tvg-name="TVN MOVIES FHD" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="KOREA", TVN MOVIES
 http://syok.tv:25461/Ardie2606/Ardie26/195
 #EXTINF: -1 tvg-id="KBSWorld" tvg-name="KBS WORLD" tvg-logo="https://i.ibb.co/n3HP87W/xcf.png" group-title="KOREA", KBS WORLD
 http://syok.tv:25461/Ardie2606/Ardie26/983
