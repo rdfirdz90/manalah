@@ -4,7 +4,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912594.png" group-title="TEMPATAN", TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912595.png" group-title="TEMPATAN", TV3
-http://syok.tv:25461/Ardie2606/Ardie26/5
+http://syok.tv:25461/Ardie2606/Ardie26/6
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922598.png" group-title="TEMPATAN", TVS
 https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922599.png" group-title="TEMPATAN", TV6
@@ -14,13 +14,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id
 #EXTINF: -1 tvg-id="awesometv.my" tvg-name="MY: Awesome TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/973737663.png" group-title="TEMPATAN", AWESOME TV
 http://syok.tv:25461/Ardie2606/Ardie26/16
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922604.png" group-title="TEMPATAN", TV ALHIJRAH
-https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1698604528-c70f518ef7004c83926b16a091600da0-0-cb708a073c2aae79fd9089b0b2bb2318&auth_key=1698604528-c70f518ef7004c83926b16a091600da0-0-deaf828568fc19b4c86222534bf02a74
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922606.png" group-title="TEMPATAN", SUKE TV
-https://live.mana2.my/SukeTv/tracks-v1a1/mono.m3u8?token=1698604559-b330c6ab613e4c3c8aa81eeca0b5761f-0-ec393840d058061bc2326400e1459a5a&auth_key=1698604559-b330c6ab613e4c3c8aa81eeca0b5761f-0-406f1ba62a7a7ea046609ea18699c9af
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922607.png" group-title="TEMPATAN", SELANGOR TV
-https://live.mana2.my/SelangorTv/tracks-v1a1/mono.m3u8?token=1698604582-71702fa0b6c648248d9c221ee7fd144d-0-19cc9525008c5841f5ff113e4b68e347&auth_key=1698604582-71702fa0b6c648248d9c221ee7fd144d-0-d388cba316b9ab9e621192f578f2f5f6
+http://syok.tv:25461/Ardie2606/Ardie26/51
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922608.png" group-title="TEMPATAN", TV IKIM
-https://live.mana2.my/TvIkim/tracks-v1a1/mono.m3u8?token=1698604601-90eeb6d096b945f598fd0714d29628f9-0-0d0e5a5b38d626cf1f1a831016e453a1&auth_key=1698604601-90eeb6d096b945f598fd0714d29628f9-0-5e447efd9e644586a87e27a5ffae7a3b
+http://syok.tv:25461/Ardie2606/Ardie26/49
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/969007595.png" group-title="TEMPATAN", DIDIK TV
 http://syok.tv:25461/Ardie2606/Ardie26/8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/969007597.png" group-title="TEMPATAN", 8TV
@@ -47,27 +43,23 @@ http://syok.tv:25461/Ardie2606/Ardie26/28
 http://syok.tv:25461/Ardie2606/Ardie26/29
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912596.png" group-title="SUKAN", SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922601.png" group-title="SUKAN", HORIZON SPORTS
-https://live.mana2.my/HorizonSports/tracks-v1a1/mono.m3u8?token=1698604642-17775ef119604766810169129b222ccc-0-0ff327efdcf5eb4896ac012bdca106e5&auth_key=1698604642-17775ef119604766810169129b222ccc-0-d3f64d356bd95e1054d21e240255f97e
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922602.png" group-title="SUKAN", MOTOR RACING
-https://live.mana2.my/MotorracingTv/tracks-v1a1/mono.m3u8?token=1698604674-050e4557d7ef437abaf2cd4bde6dc99b-0-98e0886dd055076e2a91b23f2921dfb2&auth_key=1698604674-050e4557d7ef437abaf2cd4bde6dc99b-0-b6244054e18fcea0ab4f113502d0c117
-#EXTINF: -1 tvg-id="astrocricket.my" tvg-name="MY: Astro Cricket" tvg-logo="https://i.imgur.com/XU0zLsM.png" group-title="SUKAN ASTRO", ASTRO CRICKET
+#EXTINF: -1 tvg-id="astrocricket.my" tvg-name="MY: Astro Cricket" tvg-logo="https://i.imgur.com/XU0zLsM.png" group-title="SUKAN", ASTRO CRICKET
 http://syok.tv:25461/Ardie2606/Ardie26/120
-#EXTINF: -1 tvg-id="astroarena.my" tvg-name="MY: Astro Arena[A]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SUKAN ASTRO", ASTRO ARENA
+#EXTINF: -1 tvg-id="astroarena.my" tvg-name="MY: Astro Arena[A]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SUKAN", ASTRO ARENA
 http://syok.tv:25461/Ardie2606/Ardie26/121
-#EXTINF: -1 tvg-id="astroarena2.my" tvg-name="MY: Astro Arena 2" tvg-logo="https://i.imgur.com/JS5Kve6.png" group-title="SUKAN ASTRO", ASTRO ARENA 2
+#EXTINF: -1 tvg-id="astroarena2.my" tvg-name="MY: Astro Arena 2" tvg-logo="https://i.imgur.com/JS5Kve6.png" group-title="SUKAN", ASTRO ARENA 2
 http://syok.tv:25461/Ardie2606/Ardie26/123
-#EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SUKAN ASTRO", ASTRO SUPER SPORT 1
+#EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SUKAN", ASTRO SUPER SPORT 1
 http://syok.tv:25461/Ardie2606/Ardie26/124
-#EXTINF: -1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SUKAN ASTRO", ASTRO SUPER SPORT 2
+#EXTINF: -1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SUKAN", ASTRO SUPER SPORT 2
 http://syok.tv:25461/Ardie2606/Ardie26/125
-#EXTINF: -1 tvg-id="astrosupersport3.my" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SUKAN ASTRO", ASTRO SUPER SPORT 3
+#EXTINF: -1 tvg-id="astrosupersport3.my" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SUKAN", ASTRO SUPER SPORT 3
 http://syok.tv:25461/Ardie2606/Ardie26/126
-#EXTINF: -1 tvg-id="astrosupersport4.my" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SUKAN ASTRO", ASTRO SUPER SPORT 4
+#EXTINF: -1 tvg-id="astrosupersport4.my" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SUKAN", ASTRO SUPER SPORT 4
 http://syok.tv:25461/Ardie2606/Ardie26/127
-#EXTINF: -1 tvg-id="astrosupersport5.my" tvg-name="MY: Astro Super Sport 5(B)" tvg-logo="https://i.imgur.com/bzQyCno.png" group-title="SUKAN ASTRO", ASTRO SUPER SPORT 5
+#EXTINF: -1 tvg-id="astrosupersport5.my" tvg-name="MY: Astro Super Sport 5(B)" tvg-logo="https://i.imgur.com/bzQyCno.png" group-title="SUKAN", ASTRO SUPER SPORT 5
 http://syok.tv:25461/Ardie2606/Ardie26/641
-#EXTINF: -1 tvg-id="wwenetwork.my" tvg-name="MY:  WWE" tvg-logo="https://i.imgur.com/ipnx8eZ.png" group-title="SUKAN ASTRO", WWE
+#EXTINF: -1 tvg-id="wwenetwork.my" tvg-name="MY:  WWE" tvg-logo="https://i.imgur.com/ipnx8eZ.png" group-title="SUKAN", WWE
 http://syok.tv:25461/Ardie2606/Ardie26/144
 #EXTINF: -1 tvg-id="IMC.MACAN" tvg-name="IMC FHD" tvg-logo="http://i.ibb.co/2tLWNGj/IMC.png" group-title="FHD", IMC FHD
 http://syok.tv:25461/Ardie2606/Ardie26/187
