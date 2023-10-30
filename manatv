@@ -101,12 +101,6 @@ http://syok.tv:25461/Ardie2606/Ardie26/207
 http://syok.tv:25461/Ardie2606/Ardie26/211
 #EXTINF: -1 tvg-id="ParamountNetwork" tvg-name=" Paramount Network FHD" tvg-logo="https://i.imgur.com/AxyV8Zj.png" group-title="FHD", Paramount Network FHD
 http://syok.tv:25461/Ardie2606/Ardie26/3271
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922600.png" group-title="ANTARABANGSA", MCE
-https://live.mana2.my/MyCinemaEurope/tracks-v1a1/mono.m3u8?token=1698604692-da7768d2469644afb9a3a7e759d1adfe-0-0a6dea2eed1f6905745f0adc5f142ad8&auth_key=1698604692-da7768d2469644afb9a3a7e759d1adfe-0-b00c3ab582e8cb1aacdf7dc4a6969dfa
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922609.png" group-title="ANTARABANGSA", TVRI
-https://live.mana2.my/MyCinemaEurope/tracks-v1a1/mono.m3u8?token=1698604692-da7768d2469644afb9a3a7e759d1adfe-0-0a6dea2eed1f6905745f0adc5f142ad8&auth_key=1698604692-da7768d2469644afb9a3a7e759d1adfe-0-b00c3ab582e8cb1aacdf7dc4a6969dfa
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922610.png" group-title="ANTARABANGSA", TVRI WORLD
-https://live.mana2.my/TvriWorld/tracks-v1/mono.m3u8?token=1698604726-67863630c4064ff0b574c37cccb48dad-0-b197337d502e213c6fe9e79fdac00b9c&auth_key=1698604726-67863630c4064ff0b574c37cccb48dad-0-7bc2272ca2cc2216e9d77b2b31e2b2f4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530742/968951591.png" group-title="ANTARABANGSA", RTB SUKMAINDERA (BR)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8
 #EXTINF: -1 tvg-id="warnertv.my" tvg-name="SG: Channel 5" tvg-logo="https://i.imgur.com/Wfer1te.png" group-title="ANTARABANGSA", CHANNEL 5 (SG)
@@ -164,7 +158,7 @@ http://syok.tv:25461/Ardie2606/Ardie26/234
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968921641.png" group-title="BERITA", BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922605.png" group-title="BERITA", BERNAMA
-https://live.mana2.my/Bernama/tracks-v1a1/mono.m3u8?token=1698604751-2659ae4dea194c449ced04986ef4dc47-0-3dbf297a788ae6a02b500d37702e68e3&auth_key=1698604751-2659ae4dea194c449ced04986ef4dc47-0-ee1e7554523224df3cdfc3eb4ae20dc9
+http://syok.tv:25461/Ardie2606/Ardie26/46
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530746/973254856.png" group-title="BERITA", AWANI
 http://syok.tv:25461/Ardie2606/Ardie26/50
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008219.png" group-title="RADIO", HOT FM
