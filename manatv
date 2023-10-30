@@ -29,13 +29,19 @@ http://syok.tv:25461/Ardie2606/Ardie26/12
 http://syok.tv:25461/Ardie2606/Ardie26/15
 #EXTINF: -1 tvg-id="astroria.my" tvg-name="MY: Astro Ria [A]" tvg-logo="https://i.imgur.com/pmYfDlY.png" group-title="ASTRO", ASTRO RIA
 http://syok.tv:25461/Ardie2606/Ardie26/18
+#EXTINF: -1 tvg-id="astroria.my" tvg-name="MY: Astro Ria [B]" tvg-logo="https://i.imgur.com/pmYfDlY.png" group-title="ASTRO", ASTRO RIA BACKUP
+http://syok.tv:25461/Ardie2606/Ardie26/19
 #EXTINF: -1 tvg-id="astroprima.my" tvg-name="MY: Astro Prima [A]" tvg-logo="https://i.imgur.com/zDtVGyH.png" group-title="ASTRO", ASTRO PRIMA
 http://syok.tv:25461/Ardie2606/Ardie26/20
-#EXTINF: -1 tvg-id="astrooasis.my" tvg-name="MY: Astro Oasis" tvg-logo="https://i.imgur.com/YQ1Vyv4.png" group-title="ASTRO", ASTRO OASIS
-http://syok.tv:25461/Ardie2606/Ardie26/25
+#EXTINF: -1 tvg-id="astroprima.my" tvg-name="MY: Astro Prima [B]" tvg-logo="https://i.imgur.com/zDtVGyH.png" group-title="ASTRO", ASTRO PRIMA BACKUP
+http://syok.tv:25461/Ardie2606/Ardie26/21
 #EXTINF: -1 tvg-id="astrowarna.my" tvg-name="MY: Astro Warna [A]" tvg-logo="https://i.imgur.com/pJvetrD.png" group-title="ASTRO", ASTRO WARNA
 http://syok.tv:25461/Ardie2606/Ardie26/22
-#EXTINF: -1 tvg-id="astrocitra.my" tvg-name="MY: Astro Citra" tvg-logo="https://i.imgur.com/2HMuUrQ.png" group-title="ASTRO", ASTRO CITRA
+#EXTINF: -1 tvg-id="astrowarna.my" tvg-name="MY: Astro Warna [B]" tvg-logo="https://i.imgur.com/pJvetrD.png" group-title="ASTRO", ASTRO WARNA BACKUP
+http://syok.tv:25461/Ardie2606/Ardie26/23
+#EXTINF: -1 tvg-id="astrooasis.my" tvg-name="MY: Astro Oasis" tvg-logo="https://i.imgur.com/YQ1Vyv4.png" group-title="ASTRO", ASTRO OASIS
+http://syok.tv:25461/Ardie2606/Ardie26/25
+#EXTINF: -1 tvg-id="astrocitra.my" tvg-name="MY: Astro Citra" tvg-logo="https://i.imgur.com/2HMuUrQ.png" group-title="ASTRO", MY: Astro Citra
 http://syok.tv:25461/Ardie2606/Ardie26/26
 #EXTINF: -1 tvg-id="astrorania.my" tvg-name="MY: Astro Rania" tvg-logo="https://i.imgur.com/dpTJzQ0.png" group-title="ASTRO", ASTRO RANIA
 http://syok.tv:25461/Ardie2606/Ardie26/27
@@ -53,16 +59,38 @@ http://syok.tv:25461/Ardie2606/Ardie26/121
 http://syok.tv:25461/Ardie2606/Ardie26/123
 #EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SUKAN", ASTRO SUPER SPORT 1
 http://syok.tv:25461/Ardie2606/Ardie26/124
+#EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="MY: Astro Super Sport 1(B)" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SUKAN", ASTRO SUPER SPORT 1 BACKUP
+http://syok.tv:25461/Ardie2606/Ardie26/637
 #EXTINF: -1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SUKAN", ASTRO SUPER SPORT 2
 http://syok.tv:25461/Ardie2606/Ardie26/125
+#EXTINF: -1 tvg-id="astrosupersport2.my" tvg-name="MY: Astro Super Sport 2(B)" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SUKAN", ASTRO SUPER SPORT 2 BACKUP
+http://syok.tv:25461/Ardie2606/Ardie26/638
 #EXTINF: -1 tvg-id="astrosupersport3.my" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SUKAN", ASTRO SUPER SPORT 3
 http://syok.tv:25461/Ardie2606/Ardie26/126
+#EXTINF: -1 tvg-id="astrosupersport3.my" tvg-name="MY: Astro Super Sport 3(B)" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SUKAN", ASTRO SUPER SPORT 3 BACKUP
+http://syok.tv:25461/Ardie2606/Ardie26/639
 #EXTINF: -1 tvg-id="astrosupersport4.my" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SUKAN", ASTRO SUPER SPORT 4
 http://syok.tv:25461/Ardie2606/Ardie26/127
+#EXTINF: -1 tvg-id="astrosupersport4.my" tvg-name="MY: Astro Super Sport 4(B)" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SUKAN", ASTRO SUPER SPORT 4 BACKUP
+http://syok.tv:25461/Ardie2606/Ardie26/640
 #EXTINF: -1 tvg-id="astrosupersport5.my" tvg-name="MY: Astro Super Sport 5(B)" tvg-logo="https://i.imgur.com/bzQyCno.png" group-title="SUKAN", ASTRO SUPER SPORT 5
 http://syok.tv:25461/Ardie2606/Ardie26/641
-#EXTINF: -1 tvg-id="wwenetwork.my" tvg-name="MY:  WWE" tvg-logo="https://i.imgur.com/ipnx8eZ.png" group-title="SUKAN", WWE
-http://syok.tv:25461/Ardie2606/Ardie26/144
+#EXTINF: -1 tvg-id="820" tvg-name="MY:EuroSport" tvg-logo="https://i.ibb.co/wrGxc4V/euu.png" group-title="SUKAN", EUROSPORT
+http://syok.tv:25461/Ardie2606/Ardie26/3269
+#EXTINF: -1 tvg-id="beinsports.my" tvg-name="Bein Sport Xtra" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1164.png" group-title="SUKAN", BEIN SPORTS XTRA
+http://syok.tv:25461/Ardie2606/Ardie26/133
+#EXTINF: -1 tvg-id="beinsports.my" tvg-name="BEIN SPORT 1 ID 60FPS FHD" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="SUKAN", BEIN SPORT 1
+http://syok.tv:25461/Ardie2606/Ardie26/138
+#EXTINF: -1 tvg-id="beINSports3" tvg-name="BEIN SPORT 2 ID 60FPS FHD" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="SUKAN", BEIN SPORT 2
+http://syok.tv:25461/Ardie2606/Ardie26/139
+#EXTINF: -1 tvg-id="beINSports3" tvg-name="MY:Bein 3" tvg-logo="https://i.ibb.co/XzKCv6K/BEINMAX.png" group-title="SUKAN", BEIN SPORTS MAX
+http://syok.tv:25461/Ardie2606/Ardie26/643
+#EXTINF: -1 tvg-id="beINSports" tvg-name="MY:Bein Sports" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="SUKAN", MY:Bein Sports
+http://syok.tv:25461/Ardie2606/Ardie26/644
+#EXTINF: -1 tvg-id="CHN" tvg-name="Bein sports Rugby" tvg-logo="https://www.seekpng.com/png/full/309-3092684_bein-sports-connect-launches-on-roku-streaming-devices.png" group-title="SUKAN", BEIN SPORTS RUGBY
+http://syok.tv:25461/Ardie2606/Ardie26/3270
+#EXTINF: -1 tvg-id="skypremiere.uk" tvg-name="MY: Rugby pass" tvg-logo="https://ind.igloo1.com/wp-content/uploads/2020/04/Rugbypass-logo-v2.jpg" group-title="SUKAN", RUGBY PASS
+http://syok.tv:25461/Ardie2606/Ardie26/6961
 #EXTINF: -1 tvg-id="warnertv.my" tvg-name="SG: Channel 5" tvg-logo="https://i.imgur.com/Wfer1te.png" group-title="SINGAPURA", CHANNEL 5
 http://syok.tv:25461/Ardie2606/Ardie26/88
 #EXTINF: -1 tvg-name="SG: Channel 8" tvg-logo="https://i.imgur.com/tV0k3tJ.png" group-title="SINGAPURA", CHANNEL 8
@@ -205,43 +233,3 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 http://syok.tv:25461/Ardie2606/Ardie26/46
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530746/973254856.png" group-title="BERITA", AWANI
 http://syok.tv:25461/Ardie2606/Ardie26/50
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008219.png" group-title="RADIO", HOT FM
-https://mediaprima.rastream.com/mediaprima-hotfm
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008220.png" group-title="RADIO", FLY FM
-https://mediaprima.rastream.com/mediaprima-flyfm
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008221.png" group-title="RADIO", MANIS FM
-https://live.mana2.my/ManisFm/index.m3u8|User-Agent=Mozilla
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008222.png" group-title="RADIO", MOLEK FM
-https://mediaprima.rastream.com/mediaprima-molekfm
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008223.png" group-title="RADIO", BEST FM
-https://live.mana2.my/BestFm/tracks-a1/mono.m3u8|User-Agent=Mozilla
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008224.png" group-title="RADIO", IKIM FM
-https://live.mana2.my/RadioIkim/tracks-a1/mono.m3u8|User-Agent=Mozilla
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008225.png" group-title="RADIO", 988 FM
-https://live.mana2.my/988Fm/tracks-a1/mono.m3u8|User-Agent=Mozilla
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008226.png" group-title="RADIO", EIGHT FM
-https://live.mana2.my/EightFm/tracks-a1/mono.m3u8|User-Agent=Mozilla
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008227.png" group-title="RADIO", KOOL 101 FM
-https://live.mana2.my/Kool101/tracks-a1/mono.m3u8|User-Agent=Mozilla
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008228.png" group-title="RADIO", NASIONAL FM
-https://23693.live.streamtheworld.com/NASIONAL_FMAAC.aac
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008229.png" group-title="RADIO", TRAXX FM
-https://23733.live.streamtheworld.com/TRAXX_FMAAC.aac
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008230.png" group-title="RADIO", MINNAL FM
-https://23733.live.streamtheworld.com/MINNAL_FMAAC.aac
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008231.png" group-title="RADIO", AI FM
-https://23693.live.streamtheworld.com/AI_FMAAC.aac
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008232.png" group-title="RADIO", RADIO KLASIK
-https://23693.live.streamtheworld.com/RADIO_KLASIKAAC.aac
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008233.png" group-title="RADIO", ASYIK FM
-https://23693.live.streamtheworld.com/ASYIK_FMAAC.aac
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008234.png" group-title="RADIO", SABAH FM
-https://22273.live.streamtheworld.com/SABAH_FMAAC.aac
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008235.png" group-title="RADIO", SABAHV FM
-https://23733.live.streamtheworld.com/SABAH_VFMAAC.aac
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008236.png" group-title="RADIO", SARAWAK FM
-https://23693.live.streamtheworld.com/SARAWAK_FMAAC.aac
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008237.png" group-title="RADIO", WAI FM
-https://23693.live.streamtheworld.com/WAI_FM_IBANAAC.aac
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008238.png" group-title="RADIO", BERNAMA RADIO
-https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla
