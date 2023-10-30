@@ -206,42 +206,42 @@ http://syok.tv:25461/Ardie2606/Ardie26/46
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530746/973254856.png" group-title="BERITA", AWANI
 http://syok.tv:25461/Ardie2606/Ardie26/50
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008219.png" group-title="RADIO", HOT FM
-https://live.mana2.my/HotFm/tracks-a1/mono.m3u8?token=1698255499-94b0d732ef404cfdb67170cd54943f73-0-12ad9b052f40cf9c733db0ab35319b2a&auth_key=1698255499-94b0d732ef404cfdb67170cd54943f73-0-789a79ba05960e8769b88a96523d2fa8
+https://mediaprima.rastream.com/mediaprima-hotfm
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008220.png" group-title="RADIO", FLY FM
-https://live.mana2.my/FlyFm/tracks-a1/mono.m3u8?token=1698255551-826422c364cf4c47bac3c30ae1987d13-0-91843456a0a09e37ba5516332e78e527&auth_key=1698255551-826422c364cf4c47bac3c30ae1987d13-0-3a7d69d3d20d7935227b557d74c0a450
+https://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008221.png" group-title="RADIO", MANIS FM
-https://live.mana2.my/ManisFm/tracks-a1/mono.m3u8?token=1698255577-4e762b1ec1df42488588e9aa549b8588-0-63098006d3e507ebcef1ba8bce6b59a3&auth_key=1698255577-4e762b1ec1df42488588e9aa549b8588-0-43f5ff6cdd5d63b716a472e313bf05f5
+https://live.mana2.my/ManisFm/index.m3u8|User-Agent=Mozilla
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008222.png" group-title="RADIO", MOLEK FM
-https://live.mana2.my/MolekFm/tracks-a1/mono.m3u8?token=1698255607-77d20c25e5754aaea68d1da29439d08c-0-c2e08f60ef886a259f8532c2ce4936f7&auth_key=1698255607-77d20c25e5754aaea68d1da29439d08c-0-bec85e5fbcdcec8615743db598d4feae
+https://mediaprima.rastream.com/mediaprima-molekfm
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008223.png" group-title="RADIO", BEST FM
-https://live.mana2.my/BestFm/tracks-a1/mono.m3u8?token=1698255664-fbebd4e556a240bcb53a71f23ee709ec-0-5e6c18d4aa6711f1f5be8a45e035b382&auth_key=1698255664-fbebd4e556a240bcb53a71f23ee709ec-0-6766049b8e04530af1280c8a3665c4f9
+https://live.mana2.my/BestFm/tracks-a1/mono.m3u8|User-Agent=Mozilla
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008224.png" group-title="RADIO", IKIM FM
-https://live.mana2.my/RadioIkim/tracks-a1/mono.m3u8?token=1698255695-6b812618020a4c00acd70091970d8b48-0-132fa97564f35defba28e9a842239c79&auth_key=1698255695-6b812618020a4c00acd70091970d8b48-0-0574f17bf018de0936117fa111150749
+https://live.mana2.my/RadioIkim/tracks-a1/mono.m3u8|User-Agent=Mozilla
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008225.png" group-title="RADIO", 988 FM
-https://live.mana2.my/988Fm/tracks-a1/mono.m3u8?token=1698255733-7586dda1de134489a863c315974c5951-0-2af49ee8938727277656ef611b05a246&auth_key=1698255733-7586dda1de134489a863c315974c5951-0-b0dac1093c578c6621f6333a304e2c50
+https://live.mana2.my/988Fm/tracks-a1/mono.m3u8|User-Agent=Mozilla
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008226.png" group-title="RADIO", EIGHT FM
-https://live.mana2.my/EightFm/tracks-a1/mono.m3u8?token=1698255779-949ceb5c374841159aa75edf703ae6bc-0-2a26c4701953889569ba400a2f8f132e&auth_key=1698255779-949ceb5c374841159aa75edf703ae6bc-0-5e35c241ed06c393a58d5be80b215302
+https://live.mana2.my/EightFm/tracks-a1/mono.m3u8|User-Agent=Mozilla
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008227.png" group-title="RADIO", KOOL 101 FM
-https://live.mana2.my/Kool101/tracks-a1/mono.m3u8?token=1698255815-1a6c305462f9468ab13c884b8906d32c-0-4d86f8ae44954d7205a221b1b2d0df22&auth_key=1698255815-1a6c305462f9468ab13c884b8906d32c-0-ac53b8a53ecd8ff51bd5c536ff6d93c9
+https://live.mana2.my/Kool101/tracks-a1/mono.m3u8|User-Agent=Mozilla
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008228.png" group-title="RADIO", NASIONAL FM
-https://live.mana2.my/NasionalFm/tracks-a1/mono.m3u8?token=1698255850-f0e36f275c0342adacb40f6716983cd9-0-361d2cc3102adac71486e53ddd4100c8&auth_key=1698255850-f0e36f275c0342adacb40f6716983cd9-0-cdc86c62dd3ed2fb191989ef8e350e95
+https://23693.live.streamtheworld.com/NASIONAL_FMAAC.aac
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008229.png" group-title="RADIO", TRAXX FM
-https://live.mana2.my/TraxxFm/tracks-a1/mono.m3u8?token=1698255877-102b6ced1c5b4e9e95d699a8201fc5db-0-c6ba42343aa7088047d3018cc6d845bd&auth_key=1698255877-102b6ced1c5b4e9e95d699a8201fc5db-0-d1e284109b1378e155b9eb7ae2ef619f
+https://23733.live.streamtheworld.com/TRAXX_FMAAC.aac
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008230.png" group-title="RADIO", MINNAL FM
-https://live.mana2.my/MinnalFm/tracks-a1/mono.m3u8?token=1698255911-f3b7a5b6750a4b128782d47887bf58f5-0-05b619a0691be84645f07520f2c9c7d0&auth_key=1698255911-f3b7a5b6750a4b128782d47887bf58f5-0-b25100fb64ea075c5a3c3fc85284b6b1
+https://23733.live.streamtheworld.com/MINNAL_FMAAC.aac
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008231.png" group-title="RADIO", AI FM
-https://live.mana2.my/AiFm/tracks-a1/mono.m3u8?token=1698255966-0ad0265d9316402da89933816cdd5bc7-0-64eedbeea2eaf6e90a8c68c4728915fb&auth_key=1698255966-0ad0265d9316402da89933816cdd5bc7-0-1c34a2852eb1cad62950d8d09191c7ab
+https://23693.live.streamtheworld.com/AI_FMAAC.aac
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008232.png" group-title="RADIO", RADIO KLASIK
-https://live.mana2.my/RadioKlasik/tracks-a1/mono.m3u8?token=1698255992-71c8bfaf94d64e0ab1f534be0ed8a7e4-0-3c1d140532cf7d7f0430e0cf6586db07&auth_key=1698255992-71c8bfaf94d64e0ab1f534be0ed8a7e4-0-f5fa244c6bd569cef3a1ede52005a2bd
+https://23693.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008233.png" group-title="RADIO", ASYIK FM
-https://live.mana2.my/AsyikFm/tracks-a1/mono.m3u8?token=1698256029-6139d728468c46b691bedf81ad814db1-0-7b24e0b5d24622fa4f00573cf1049829&auth_key=1698256029-6139d728468c46b691bedf81ad814db1-0-e62a96aff7cb1a86cc37f646b3bbc4a5
+https://23693.live.streamtheworld.com/ASYIK_FMAAC.aac
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008234.png" group-title="RADIO", SABAH FM
-https://live.mana2.my/SabahFm/tracks-a1/mono.m3u8?token=1698256063-3b5bdee3f6c3492d9b1fbb200b81196a-0-f6845d99b1ea08cb6acf522081a256bf&auth_key=1698256063-3b5bdee3f6c3492d9b1fbb200b81196a-0-970908586c2204b5a610d13d208e00a5
+https://22273.live.streamtheworld.com/SABAH_FMAAC.aac
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008235.png" group-title="RADIO", SABAHV FM
-https://live.mana2.my/SabahvFm/tracks-a1/mono.m3u8?token=1698256101-7240e06ed8c1421fa168097da7596752-0-b9bb8eaea6eca60c7c25fa49d53f51cb&auth_key=1698256101-7240e06ed8c1421fa168097da7596752-0-0403c03af79229256399d6207978e592
+https://23733.live.streamtheworld.com/SABAH_VFMAAC.aac
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008236.png" group-title="RADIO", SARAWAK FM
-https://live.mana2.my/SarawakFm/tracks-a1/mono.m3u8?token=1698256125-3d52d51970784618b0c7957d534e141c-0-76afa6dcab57c7144fd3aefcb2851cc8&auth_key=1698256125-3d52d51970784618b0c7957d534e141c-0-1afa2c0dd0f417bfb9b5f83cbbfe46ca
+https://23693.live.streamtheworld.com/SARAWAK_FMAAC.aac
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008237.png" group-title="RADIO", WAI FM
-https://live.mana2.my/WaiFm/tracks-a1/mono.m3u8?token=1698256153-83bef93f735044f38acc58f479b77895-0-a34474b465096e93cab1dd106bdd04b9&auth_key=1698256153-83bef93f735044f38acc58f479b77895-0-bda0399f24e383255e216eabd697486d
+https://23693.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5531240/969008238.png" group-title="RADIO", BERNAMA RADIO
-https://live.mana2.my/BernamaRadio/tracks-a1/mono.m3u8?token=1698256197-2ce2e17eb515491fa52482a915d141b7-0-a3f21449375ce54440a4409a36f2f820&auth_key=1698256197-2ce2e17eb515491fa52482a915d141b7-0-c45447814cfc6478381bdfec15a7268a
+https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla
