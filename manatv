@@ -4,7 +4,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912594.png" group-title="TEMPATAN", TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 #EXTINF: -1 tvg-id="tv3.my" tvg-name="MY: TV 3 [A]" tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912595.png" group-title="TEMPATAN", TV3
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8?exp=1698778489&hmac=0x34bfc01e7b03f5f7d7b183eacecabe3df3c8431515fed5baba61ff0296149de2
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8?exp=1698865263&hmac=0xb58574113b31cd470e0e4d54950cb0707bbdaadf6040bf337dd9954d818626d3
 #EXTINF: -1 tvg-id="tv3.my" tvg-name="MY: TV 3 [B]" tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968912595.png" group-title="TEMPATAN", TV3 BACKUP
 http://syok.tv:25461/Ardie2606/Ardie26/5
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/968922598.png" group-title="TEMPATAN", TVS
