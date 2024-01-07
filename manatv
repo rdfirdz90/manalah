@@ -27,7 +27,7 @@ http://syok.tv:25461/Ardie2606/Ardie26/10
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/969007601.png" group-title="TEMPATAN", TV9
 http://syok.tv:25461/Ardie2606/Ardie26/12
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a162dae0-730b-11ee-bd21-e19188bf15c7/5530299/969007602.png" group-title="TEMPATAN", DRAMA SANGAT
-http://syok.tv:25461/Ardie2606/Ardie26/15
+https://37de9495dd514c9d8665de15f2da7092.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/9e92d685-c2da-404a-a757-27fb4a846ff7/5.m3u8
 #EXTINF: -1 tvg-id="astroria.my" tvg-name="MY: Astro Ria [A]" tvg-logo="https://i.imgur.com/pmYfDlY.png" group-title="ASTRO", ASTRO RIA
 http://syok.tv:25461/Ardie2606/Ardie26/18
 #EXTINF: -1 tvg-id="astroria.my" tvg-name="MY: Astro Ria [B]" tvg-logo="https://i.imgur.com/pmYfDlY.png" group-title="ASTRO", ASTRO RIA BACKUP
